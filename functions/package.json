@@ -14,7 +14,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@google-cloud/firestore": "^6.4.1",
+    "@google-cloud/firestore": "^8.6.0",
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.18.0"
   },
